@@ -7,6 +7,7 @@ Sequoia theme adapted to APP
 # Instructions
 
 - Prefferences/Themes/Paste the codes.
+- check zellij themes [here](https://zellij.dev/documentation/themes)
 
 
 # Available themes:
